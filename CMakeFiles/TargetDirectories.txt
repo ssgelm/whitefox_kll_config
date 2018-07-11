@@ -1,0 +1,5 @@
+/Users/stephen/Documents/Code/tmk-whitefox/CMakeFiles/edit_cache.dir
+/Users/stephen/Documents/Code/tmk-whitefox/CMakeFiles/rebuild_cache.dir
+/Users/stephen/Documents/Code/tmk-whitefox/CMakeFiles/SizeAfter.dir
+/Users/stephen/Documents/Code/tmk-whitefox/CMakeFiles/kiibohd.elf.dir
+/Users/stephen/Documents/Code/tmk-whitefox/CMakeFiles/kll_regen.dir
